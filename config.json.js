@@ -7,5 +7,5 @@
     "module": "wangxinyun", 
     "tags": "系统｜工具", 
     "title": "网心云（KoolCenter版）", 
-    "version": "1.1.0"
+    "version": "1.3.1"
 }
